@@ -72,7 +72,8 @@
                     rgba(255,193,7,0.8),
                     rgba(255,193,7,0.8)
                 ),
-                url("https://images.unsplash.com/photo-1517849845537-4d257902454a");
+                url("/image/bgdog.webp");
+           
             background-size: cover;
             background-position: center;
             padding:80px 0;
