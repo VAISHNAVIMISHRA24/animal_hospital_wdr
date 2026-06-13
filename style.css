@@ -1,0 +1,192 @@
+  .pet-section{
+            background:#ffc400;
+            padding:80px 0;
+        }
+
+        .section-title{
+            color:white;
+            font-size:48px;
+            font-weight:bold;
+        }
+
+        .section-text{
+            color:white;
+            font-size:18px;
+            max-width:600px;
+            margin:auto;
+        }
+
+        .pet-card{
+            border:none;
+            background:transparent;
+            text-align:center;
+        }
+
+        .pet-card img{
+            height:250px;
+            object-fit:cover;
+        }
+
+        .price{
+            color:white;
+            font-size:30px;
+            font-weight:bold;
+        }
+
+        .buy-btn{
+            background:#00cfe8;
+            color:white;
+            border:none;
+            border-radius:30px;
+            padding:10px 30px;
+            font-weight:bold;
+        }
+
+        .buy-btn:hover{
+            background:#00b3cc;
+        }
+         .dr-section{
+            background:white;
+            padding:80px 0;
+        }
+        .section-title1{
+            color:black;
+            font-size:48px;
+            font-weight:bold;
+        }
+           .section-text1{
+            color:black;
+            font-size:18px;
+            max-width:600px;
+            margin:auto;
+        }
+
+        .team-img{
+            width:100%;
+            height:220px;
+            object-fit:cover;
+        }
+
+        .stats-section{
+            background: linear-gradient(
+                    rgba(255,193,7,0.8),
+                    rgba(255,193,7,0.8)
+                ),
+                url("https://images.unsplash.com/photo-1517849845537-4d257902454a");
+            background-size: cover;
+            background-position: center;
+            padding:80px 0;
+        }
+
+        .icon-box{
+            font-size:50px;
+            color:#fff;
+        }
+
+        .counter{
+            font-size:32px;
+            font-weight:bold;
+            color:#fff;
+        }
+
+        .counter-text{
+            color:#fff;
+            font-size:22px;
+            font-weight:600;
+        }
+
+          .post-section{
+        padding:80px 0;
+        background:#fff;
+    }
+
+    .post-title{
+        font-size:60px;
+        font-weight:700;
+        color:#2c2c54;
+    }
+
+    .post-desc{
+        max-width:650px;
+        margin:auto;
+        color:#555;
+        font-size:22px;
+    }
+
+    .post-card img{
+        height:300px;
+        object-fit:cover;
+        width:100%;
+    }
+
+    .post-date{
+        color:#00cfe8;
+        font-size:14px;
+        font-weight:600;
+        text-transform:uppercase;
+    }
+
+    .read-more{
+        text-decoration:none;
+        color:#00cfe8;
+        font-weight:700;
+    }
+
+    .read-more:hover{
+        color:#0099aa;
+    }
+    .footer{
+    background:#343434;
+    padding:80px 0;
+}
+
+.footer h2{
+    color:white;
+    font-weight:700;
+    margin-bottom:20px;
+}
+
+.footer ul{
+    list-style:none;
+    padding:0;
+}
+
+.footer ul li{
+    margin-bottom:10px;
+}
+
+.footer ul li a{
+    text-decoration:none;
+    color:white;
+    font-size:20px;
+}
+
+.footer ul li a:hover{
+    color:#f4c430;
+}
+
+.newsletter{
+    display:flex;
+    margin-top:30px;
+}
+
+.newsletter input{
+    border:none;
+    background:#f4c430;
+    color:white;
+    padding:15px;
+    width:100%;
+}
+
+.newsletter button{
+    border:none;
+    background:#00cfe8;
+    color:white;
+    padding:15px 25px;
+}
+
+.social-icons a{
+    color:white;
+    font-size:28px;
+    margin-left:15px;
+}
