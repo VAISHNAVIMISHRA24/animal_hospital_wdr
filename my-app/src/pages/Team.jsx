@@ -19,7 +19,7 @@ function Team() {
            
             <div class="col-md-4 text-center">
                 <img src="/image/d.png"
-                     class="img-fluid team-img"/>
+                     class="img-fluid team-img" alt="Jennifer Mullen"/>
 
                 <h5 class="mt-3 fw-bold">Jennifer Mullen</h5>
                 <p class="text-muted">VETERINARY</p>
@@ -30,7 +30,7 @@ function Team() {
             
             <div class="col-md-4 text-center">
                 <img src="/image/Screenshot 2026-06-13 140557.png"
-                     class="img-fluid team-img"/>
+                     class="img-fluid team-img" alt="Sheeren Collins"/>
 
                 <h5 class="mt-3 fw-bold">Sheeren Collins</h5>
                 <p class="text-muted">ADMINISTRATION</p>
@@ -41,7 +41,7 @@ function Team() {
            
             <div class="col-md-4 text-center">
                 <img src="/image/Screenshot 2026-06-13 140553.png"
-                     class="img-fluid team-img"/>
+                     class="img-fluid team-img" alt="Jennifer Mullen"/>
 
                 <h5 class="mt-3 fw-bold">Jennifer Mullen</h5>
                 <p class="text-muted">VETERINARY</p>

@@ -40,7 +40,7 @@ function PostSection() {
                             suffered alteration in some words which look.
                         </p>
 
-                        <a href="#" class="read-more">
+                        <a href="#posts" class="read-more">
                             Read More+
                         </a>
 
@@ -70,7 +70,7 @@ function PostSection() {
                             suffered alteration in some words which look.
                         </p>
 
-                        <a href="#" class="read-more">
+                        <a href="#posts" class="read-more">
                             Read More+
                         </a>
 
@@ -100,7 +100,7 @@ function PostSection() {
                             suffered alteration in some words which look.
                         </p>
 
-                        <a href="#" class="read-more">
+                        <a href="#posts" class="read-more">
                             Read More+
                         </a>
 

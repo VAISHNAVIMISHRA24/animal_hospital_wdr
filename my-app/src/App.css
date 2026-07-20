@@ -111,7 +111,7 @@
                     rgba(255,193,7,0.8),
                     rgba(255,193,7,0.8)
                 ),
-                url("../public/image/bgdog.webp");
+                url("./assets/bgdog.webp");
            
             background-size: cover;
             background-position: center;
@@ -229,4 +229,81 @@
     color:white;
     font-size:28px;
     margin-left:15px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+  .post-title {
+    font-size: 44px;
+  }
+  .post-desc {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+  .section-title, .section-title1 {
+    font-size: 34px;
+  }
+  .post-title {
+    font-size: 32px;
+  }
+  .post-desc {
+    font-size: 16px;
+  }
+  .counter {
+    font-size: 28px;
+  }
+  .counter-text {
+    font-size: 18px;
+  }
+  .footer ul li a {
+    font-size: 16px;
+  }
+  .footer {
+    padding: 40px 0;
+    text-align: center;
+  }
+  .footer .text-md-end {
+    text-align: center !important;
+    margin-top: 30px;
+  }
+  .newsletter {
+    justify-content: center !important;
+  }
+  .newsletter input {
+    width: 70% !important;
+  }
+  .social-icons {
+    text-align: center;
+  }
+  .social-icons a {
+    margin: 0 10px !important;
+  }
+  .team-img {
+    max-width: 320px;
+    height: 320px;
+    margin: 0 auto 15px;
+  }
+  .pet-card img {
+    max-width: 320px;
+    height: auto;
+    aspect-ratio: 4 / 3;
+    margin: 0 auto;
+  }
+  .post-card img {
+    height: 220px;
+  }
+}
+
+@media (max-width: 480px) {
+  .section-title, .section-title1 {
+    font-size: 28px;
+  }
+  .post-title {
+    font-size: 26px;
+  }
+  .newsletter input {
+    width: 100% !important;
+  }
 }
